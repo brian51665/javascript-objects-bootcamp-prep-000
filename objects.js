@@ -1,3 +1,5 @@
-var myFirstObject = {};
+var myFirstObject = {breakfast : "Frozen Waffles"};
 
-var mySecondObject = new Object();
+var mySecondObject = new Object(dinner : "Lasagna");
+
+
